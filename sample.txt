@@ -1,6 +1,6 @@
 This is a sample. The first line.
 edit some thing.
 Need a licence file.
-Git track changes of files
+Git track changes of files fix bugs.
 create a new branch here.
 Creating a new branch is quick and simple.
